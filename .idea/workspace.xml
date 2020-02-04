@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee0f858e-3c93-4a21-9ab2-3f7b6ddec1e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XLJP5OtNp4vmgSIeTGZTLH6A2P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Pensioen" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.MainScramble">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.kdg.javafx.Main" />
+      <module name="Background" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.kdg.javafx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainDobbelen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.kdg.dobbelen.MainDobbelen" />
+      <module name="dobbelen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.kdg.dobbelen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainScramble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.kdg.scramble.MainScramble" />
+      <module name="scramble" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.kdg.scramble.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pensioen" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="be.kdg.pensioen.Main" />
+      <module name="Pensioen" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;E:\Program Files\Java\javafx-sdk-11.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.media" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pensioen" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration type="JarApplication">
+      <option name="WORKING_DIRECTORY" value="C:\Users\brent\IdeaProjects\Periode3Week1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Pensioen" />
+      <item itemvalue="JAR Application." />
+      <item itemvalue="Application.MainDobbelen" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MainScramble" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainScramble" />
+        <item itemvalue="Application.MainDobbelen" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee0f858e-3c93-4a21-9ab2-3f7b6ddec1e5" name="Default Changelist" comment="" />
+      <created>1580819413673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580819413673</updated>
+      <workItem from="1580819415789" duration="10657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1512" y="359" key="#Project_Structure" timestamp="1580819555803">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1512" y="359" key="#Project_Structure/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580819555803" />
+    <state x="1374" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580821899731">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1374" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580821899731" />
+    <state x="1725" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1580829063916">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1725" y="420" key="#com.intellij.ide.util.MemberChooser/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580829063916" />
+    <state x="1649" y="485" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580821542935">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1649" y="485" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580821542935" />
+    <state x="1768" y="590" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580827622270">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1768" y="590" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580827622270" />
+    <state x="1654" y="463" key="EnvironmentVariablesDialog" timestamp="1580821563421">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1654" y="463" key="EnvironmentVariablesDialog/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580821563421" />
+    <state x="1626" y="442" key="FileChooserDialogImpl" timestamp="1580821558872">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1626" y="442" key="FileChooserDialogImpl/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580821558872" />
+    <state width="1234" height="491" key="GridCell.Tab.0.bottom" timestamp="1580830551066">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.0.bottom/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580830551066" />
+    <state width="1234" height="491" key="GridCell.Tab.0.center" timestamp="1580830551066">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.0.center/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580830551066" />
+    <state width="1234" height="491" key="GridCell.Tab.0.left" timestamp="1580830551066">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.0.left/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580830551066" />
+    <state width="1234" height="491" key="GridCell.Tab.0.right" timestamp="1580830551066">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.0.right/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580830551066" />
+    <state width="1234" height="491" key="GridCell.Tab.1.bottom" timestamp="1580830551066">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.1.bottom/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580830551066" />
+    <state width="1234" height="491" key="GridCell.Tab.1.center" timestamp="1580830551066">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.1.center/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580830551066" />
+    <state width="1234" height="491" key="GridCell.Tab.1.left" timestamp="1580830551066">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.1.left/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580830551066" />
+    <state width="1234" height="491" key="GridCell.Tab.1.right" timestamp="1580830551066">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.1.right/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580830551066" />
+    <state x="1400" y="275" key="SettingsEditor" timestamp="1580821865061">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1400" y="275" key="SettingsEditor/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580821865061" />
+    <state x="1302" y="321" key="new project wizard" timestamp="1580828518668">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1302" y="321" key="new project wizard/-1920.127.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1580828518668" />
+  </component>
+</project>

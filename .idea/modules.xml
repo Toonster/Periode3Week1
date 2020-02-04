@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Background/Background.iml" filepath="$PROJECT_DIR$/Background/Background.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pensioen/Pensioen.iml" filepath="$PROJECT_DIR$/Pensioen/Pensioen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Periode3Week1.iml" filepath="$PROJECT_DIR$/Periode3Week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dobbelen/dobbelen.iml" filepath="$PROJECT_DIR$/Dobbelen/dobbelen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pensioen2/pensioen2.iml" filepath="$PROJECT_DIR$/pensioen2/pensioen2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scramble/scramble.iml" filepath="$PROJECT_DIR$/Scramble/scramble.iml" />
+    </modules>
+  </component>
+</project>
